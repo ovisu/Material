@@ -1,0 +1,48 @@
+Bootstrap sempre acima de css pra que nada seja sobreescrito. Jquery e poppyjs antes do javascript pré compilado do bootstrap.
+
+Manter boa identação <!-- --> //.
+
+Biblioteca de icones: Fontawesome.
+
+Fontes: Googlefonts.
+
+Usar github pra duvidas e bibliotecas.
+
+Criar lista de anotações sobre certos comandos e suas funções.
+
+<container> se ajusta pro tamanho do conteúdo dentro dela.
+
+CLASS
+navbar-toggler
+navbar-toggler-icon
+collapse
+navbar-collapse
+justify-content-end
+navbar-nav
+nav-item
+nav-link
+
+ID
+navbar-links
+
+DATA TOGGLE
+"collapse"
+
+DATA TARGET
+#navbar-links
+
+ARIA CONTROLS
+navbar-links
+
+ARIA EXPANDED
+false
+
+ARIA LABEL
+toggle navigation
+
+IDEIA
+
+menu
+parallax relacionado a tecnologia
+conteudo center fundo branco
+rodape na msm cor do menu
